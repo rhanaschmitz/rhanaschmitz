@@ -1,4 +1,11 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=500&color=66D9EF&background=000000&center=true&multiline=true&width=1000&height=80&lines=Hello+World!+🌍;I'm+Rhana+Schmitz.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+---
+
+![Rhana's Stats](https://github-readme-stats.vercel.app/api?username=rhanaschmitz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Rhana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhanaschmitz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+---
 
 <!--
 **rhanaschmitz/rhanaschmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
