@@ -3,7 +3,7 @@
 ---
 
 ![Rhana's Stats](https://github-readme-stats.vercel.app/api?username=rhanaschmitz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Rhana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhanaschmitz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Rhana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhanaschmitz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
